@@ -4,7 +4,7 @@
 ### Payroll Case Study
 This project was **bold**
 
-[Payroll Case Study]([https://github.com/robertwh09/Payroll-Case-Study])
+[Payroll Case Study](https://github.com/robertwh09/Payroll-Case-Study)
 
 
 # Github Pages Quick Start Guide
