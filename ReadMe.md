@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 ### GitHub Pages Repo
-[GitHub Pages Repo](https://github.com/robertwh09.github.io)
+[GitHub Pages Repo](https://github.com/robertwh09/robertwh09.github.io)
 
 ## Year 1
 ### Payroll Case Study
