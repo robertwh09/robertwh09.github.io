@@ -17,7 +17,8 @@ I used this project to work through the **SOLID** Principles and give me a bette
 
 ## [Contact](/contact)
 
-# Setting Up Git Pages
+# [Setting Up GitHub Pages](/GitHubPages)
+
 ## GitHub Pages Repo
 [GitHub Pages Repo](https://github.com/robertwh09/robertwh09.github.io)
 
