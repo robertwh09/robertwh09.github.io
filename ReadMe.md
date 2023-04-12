@@ -17,25 +17,4 @@ I used this project to work through the **SOLID** Principles and give me a bette
 
 ## [Contact](/contact)
 
-# [Setting Up GitHub Pages](/GitHubPages)
-
-## GitHub Pages Repo
-[GitHub Pages Repo](https://github.com/robertwh09/robertwh09.github.io)
-
-## Github Pages Quick Start Guide
-[GitHub Pages QuickStart Guide](https://docs.github.com/en/pages/quickstart)
-
-## Supported Themes - [Link](https://pages.github.com/themes/)
-Architect
-Cayman
-Dinky
-Hacker
-Leap day
-Merlot
-Midnight
-Minima
-Minimal
-Modernist
-Slate
-Tactile
-Time machine
+## [Setting Up GitHub Pages](/GitHubPages)
