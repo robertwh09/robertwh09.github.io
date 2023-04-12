@@ -1,5 +1,4 @@
 ### Year 3 & 4 Major Projects & Disserations
-### Year 4 - Grade Average to date for Year: XX%, 1st Grade Level
 [Dissertations Projects Page](/dissertations)
 
 ### Year 4 - Grade Average to date for Year: XX%, 1st Grade Level
