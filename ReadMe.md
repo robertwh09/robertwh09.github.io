@@ -1,3 +1,4 @@
+border-bottom: none
 # GitHub Pages
 ## GitHub Pages Repo
 [GitHub Pages Repo](https://github.com/robertwh09/robertwh09.github.io)
