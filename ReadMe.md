@@ -18,6 +18,8 @@ I used this project to work through the **SOLID** Principles and give me a bette
 ### Year 1 - Grade Average for Year: XX%, 1st Grade Level
 [Year 1 Projects Page](/Year1)
 
+## [Contact](/contact)
+
 # Setting Up Git Pages
 ## GitHub Pages Repo
 [GitHub Pages Repo](https://github.com/robertwh09/robertwh09.github.io)
