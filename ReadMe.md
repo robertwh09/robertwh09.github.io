@@ -28,7 +28,7 @@ Time machine
 This project was **bold**
 [Payroll Case Study Repo](https://github.com/robertwh09/Payroll-Case-Study)
 #### Lessons Learned
-
+I used this project to work through the SOLID Principles from Robert C. Martins book [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/AGILE-SOFTWARE-DEVELOPMENT-Robert-Martin/dp/B006X8HRDQ)
 ## Year 3
 ### Grade Average for Year: XX%, 1st Grade Level
 
