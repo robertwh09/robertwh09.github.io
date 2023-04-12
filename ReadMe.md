@@ -20,8 +20,6 @@ Slate
 Tactile
 Time machine
 
-blah
-
 ### Year 4 - Grade Average to date for Year: XX%, 1st Grade Level
 #### Payroll Case Study
 ##### Overview
