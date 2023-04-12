@@ -1,6 +1,3 @@
-## Overview
-I am final year Computer Science Undergraduate at Newcastle University, studying for a Masters degreee in Computer Science.  This site give an overview and portal into the software projects I have delivered as part of this degree over the last 4 years.
-
 ### Year 4 - Grade Average to date for Year: XX%, 1st Grade Level
 #### Payroll Case Study
 ##### Overview
