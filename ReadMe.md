@@ -21,8 +21,7 @@ Tactile
 Time machine
 
 # Project Summaries
-## Year 4
-### Grade Average to date for Year: XX%, 1st Grade Level
+## Year 4 - Grade Average to date for Year: XX%, 1st Grade Level
 
 ### Payroll Case Study
 #### Overview
