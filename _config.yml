@@ -1,9 +1,3 @@
 theme: jekyll-theme-modernist
 title: Robert Harvey's Code homepage
 description: This page give an overview of the projects I have worked on and the lessons and technology I have learned
-
-// change padding of headings
-h1, h2, h3, h4 {
-    font-weight: normal;
-    margin-bottom:0.25rem;
-}
