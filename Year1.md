@@ -1,5 +1,3 @@
-title: "Year 1 Projects"
-
 # Year 1 Projects
 ## Project 1
 ### Overview
