@@ -25,9 +25,10 @@ Time machine
 ### Grade Average to date for Year: XX%, 1st Grade Level
 
 ### Payroll Case Study
+#### Overview
 This project was **bold**
-
 [Payroll Case Study Repo](https://github.com/robertwh09/Payroll-Case-Study)
+#### Lessons Learned
 
 ## Year 3
 ### Grade Average for Year: XX%, 1st Grade Level
